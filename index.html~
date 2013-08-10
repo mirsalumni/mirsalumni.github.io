@@ -19,9 +19,8 @@ background-size: 64px 128px
 <center>
 !!!!!!!!!!!<br>
 -----------<br>
-<h1><b>MIRS ALUMNI</b></h1><br>
+MIRS ALUMNI<br>
 ===========<br>
-<br><h2><b>COMING SOON!!</b></h2>
 <div class="your-clock" style="width:460px; margin:0 auto;"></div>
 
 <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
@@ -35,7 +34,7 @@ $(document).ready(function() {
 });
 
 		});
-</script>
+</script><br>COMING SOON!!
 </center>
 </body>
 </html>
